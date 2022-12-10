@@ -2,6 +2,8 @@
 american sign language using keras and transfer learning
 
 
+
+
 ## Trasfer learning
 ### i used tensorflow_hub and freezed all the layers 
 ### i added new output layer 
