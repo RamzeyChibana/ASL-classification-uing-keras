@@ -2,13 +2,15 @@
 american sign language using keras and transfer learning
 
 <br>
+<br>
+
 
 
 ## Trasfer learning
 ### i used tensorflow_hub and freezed all the layers 
 ### i added new output layer 
 ### model url:https://tfhub.dev/google/tf2-preview/mobilenet_v2/classification/4
-
+<br>
 
 ## accuracy
 ### Training accuracy = 0.96
